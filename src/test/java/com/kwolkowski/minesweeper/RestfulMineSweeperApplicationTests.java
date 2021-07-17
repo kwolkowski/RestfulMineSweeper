@@ -1,4 +1,4 @@
-package com.kwolkowski.RestfulMineSweeper;
+package com.kwolkowski.minesweeper;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
